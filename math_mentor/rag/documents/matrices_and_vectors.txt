@@ -1,0 +1,11 @@
+Matrices:
+Matrix addition requires same order.
+Matrix multiplication requires compatible dimensions.
+
+Determinant (2×2):
+|a b|
+|c d| = ad - bc
+
+Vectors:
+Magnitude = √(a² + b²)
+Dot product = |A||B|cosθ

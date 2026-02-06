@@ -1,0 +1,13 @@
+Probability Basics:
+
+P(E) = favourable outcomes / total outcomes
+
+Rules:
+0 ≤ P(E) ≤ 1
+P(E') = 1 - P(E)
+
+Conditional Probability:
+P(A|B) = P(A ∩ B) / P(B)
+
+Used in:
+Cards, dice, coins, selection problems.

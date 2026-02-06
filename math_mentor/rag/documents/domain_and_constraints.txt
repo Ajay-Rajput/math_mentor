@@ -1,0 +1,9 @@
+Domain & Constraints:
+
+- Denominator must not be zero
+- Square root argument ≥ 0
+- Logarithm argument > 0
+- Trigonometric functions assume radians
+
+Importance:
+Invalid domain leads to incorrect answers.

@@ -1,0 +1,11 @@
+General Math Problem Strategy:
+
+1. Read the problem carefully
+2. Identify topic and variables
+3. Choose correct formula or method
+4. Solve step-by-step
+5. Check domain and validity
+6. Finalize answer
+
+Applicable to:
+Algebra, calculus, probability, vectors.

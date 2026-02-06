@@ -1,0 +1,10 @@
+Common Mistakes in Math:
+
+- Sign errors in algebra
+- Forgetting domain restrictions
+- Applying derivative rules incorrectly
+- Ignoring probability conditions
+- Arithmetic mistakes under pressure
+
+Tip:
+Always recheck final answer logically.

@@ -1,0 +1,16 @@
+Algebra Core Formulas:
+
+Linear Equation:
+ax + b = 0 → x = -b/a
+
+Quadratic Equation:
+ax² + bx + c = 0
+x = (-b ± √(b² - 4ac)) / (2a)
+
+Identities:
+(a + b)² = a² + 2ab + b²
+(a - b)² = a² - 2ab + b²
+a² - b² = (a + b)(a - b)
+
+Usage:
+Used in simplification, equation solving, and graph analysis.
