@@ -1,0 +1,7 @@
+streamlit
+numpy
+pandas
+sympy
+python-dotenv
+scikit-learn
+faiss-cpu
